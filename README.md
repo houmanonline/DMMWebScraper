@@ -16,7 +16,7 @@ So, input serial NO. like "star-964" will not retrieve any data.<p>
 # DMMWebScraper
 根据输入的番号从DMM.co.jp上下载影片封面和截图
 <p>番号的形式一般是“tek-097”这样， 前半段数字，后半段字母，中间用“-”或者“ ”（空格）隔开。<p>
-<p>在DMM.co.jp上，番号有两种形式。一种是数字下载内容 http://www.dmm.co.jp/digital/videoa/，番号的格式是用“00”替代“-”，“tek-097”就变成了“tek00097”.
+<p>在DMM.co.jp上，番号有两种形式。一种是数字下载内容 http://www.dmm.co.jp/digital/videoa/ ，番号的格式是用“00”替代“-”，“tek-097”就变成了“tek00097”.
 另一种是DVD http://www.dmm.co.jp/mono/dvd, 番号的格式仅仅是取消了中间的“-”，"juy-705"变成了"juy705"。</P>
 <p>此应用会根据输入的番号从网站上下载封面和截图。首先把番号编辑成正确的格式，然后在上面两个链接里搜索影片是否存在，之后下载封面和截图。</p>
 <P><B>存在的问题</B>:
